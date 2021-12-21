@@ -41,7 +41,7 @@ code:
 
 ### iOS
 
-- [DataModel.swift](./multiple_flutters_ios/MultipleFluttersIos/HostViewController.swift)
+- [DataModel.swift](./multiple_flutters_ios/MultipleFluttersIos/DataModel.swift)
   — Observable data model that is the source of truth for the host platform and Flutter.
 - [HostViewController.swift](./multiple_flutters_ios/MultipleFluttersIos/HostViewController.swift)
   — A UIViewController that synchronizes to the DataModel.
